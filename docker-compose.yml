@@ -1,0 +1,5 @@
+version: '3'
+services:
+  :
+    image: celtak/ubuntu-ping-ip
+    container_name: celtak_ubuntu
